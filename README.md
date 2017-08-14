@@ -10,6 +10,6 @@ sklearn,
 peakutils,
 cPickle,
 IPython,
-mpl_toolkits.mplot3d,
+mpl_toolkits,
 plotly,
 seaborn
